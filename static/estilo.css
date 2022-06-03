@@ -1,0 +1,10 @@
+h1{
+    color: rgb(240, 238, 239);
+}
+body{
+    background-color: rgb(37, 99, 223);
+}
+table{
+    box-shadow: 2px 3px 10px black;
+    text-align: center;
+}
